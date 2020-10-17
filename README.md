@@ -11,3 +11,5 @@
 5) Запускаем <code>npm install</code>
 6) настраиваем сервер (например nginx)
 7) Запускаем <code>npm run prod</code>
+8) Запускаем <code>php artisan migrate</code>
+9) Запускаем <code>php artisan db:seed</code>
